@@ -1,17 +1,16 @@
 # CodeCademy Mixed Messages Project Info
 
-## Developping a 
-
 ---
+Goals of Project
 
-*Using JavaScript to develop a random horoscope.
-
+-Use JavaScript to develop a random horoscope.
+-Use cmd to push files into GitHub repository
 ---
 
 #### To run the code
 
-`cd .../folder-contains-script
-node script.js`
+`cd .../folder-contains-script`
+`node script.js`
 
 
 
