@@ -1,8 +1,17 @@
-# Project to Generate Random Interactive Sentence For Any User Input. 
+# CodeCademy Mixed Messages Project Info
 
-## Chosen to Develop a Funny Horoscope.
+## Developping a 
 
 ---
+
+*Using JavaScript to develop a random horoscope.
+
+---
+
+#### To run the code
+
+`cd .../folder-contains-script
+node script.js`
 
 
 
